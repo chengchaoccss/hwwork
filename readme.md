@@ -6,3 +6,5 @@
 4. 这条笔记是在华为服务器上添加的。1-3步没有问题。
 5. 此处出现了一个问题，服务器上每次使用git push命令都需要输入密码，解决方法是：git config --global credential.helper store。输入该命令后在git push，可行！
 6. 这条笔记是在google云上记录的，通信正常，不过有时会卡，毕竟服务器在大陆外！
+7. windows重新创建了新的hwwork文件夹
+
